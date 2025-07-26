@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "basic_react": "0_Basics/basics.py:basic_react_gr"
+    },
+    "python_version": "3.13",
+    "env": ".env",
+    "dependencies": [
+      "."
+    ]
+  }

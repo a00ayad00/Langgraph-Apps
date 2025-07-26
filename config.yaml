@@ -1,0 +1,5 @@
+llm:
+  # provider: openai
+  # model: o4-mini
+  provider: groq
+  model_name: deepseek-r1-distill-llama-70b

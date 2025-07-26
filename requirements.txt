@@ -4,5 +4,15 @@ langchain-groq>=0.3.5
 langchain-tavily>=0.2.6
 langgraph>=0.5.0
 langsmith>=0.4.4
+# langgraph-cli[inmem]>=0.3.4
 python-dotenv>=1.1.1
 uv==0.7.16
+fastapi==0.116.1
+uvicorn==0.35.0
+setuptools==80.9.0
+PyYAML==6.0.2
+python-box==7.3.2
+langchain-openai==0.3.28
+langchain-community==0.3.27
+markdown==3.8.2
+-e .
