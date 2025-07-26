@@ -19,4 +19,4 @@ $`langgraph dev`
 
 # Run the App
 $`uvicorn main:app --reload --port 8000`
-<br> **You can reach the api page from http://localhost:5000/ and play with the api doc from _docs_ endpont**
+<br> **You can reach the api page from http://localhost:8000/ and play with the api doc from _docs_ endpont**
